@@ -1,0 +1,2 @@
+Linux a446fe60c45e 6.5.0-1024-aws #24-22.04.1-Ubuntu SMP Thu Jul 18 10:43:12 UTC
+2024 x86 64 x86 64 x86 64 GNU/Linux
